@@ -1,0 +1,146 @@
+{
+  "classes": [
+    {
+      "name": "1A",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "1B",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "2A",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "2B",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "3A",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "3B",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "4A",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    },
+    {
+      "name": "4B",
+      "subjects": [
+        {"name": "CZE", "hours": 5},
+        {"name": "MAT", "hours": 4},
+        {"name": "ANG", "hours": 3},
+        {"name": "DEJ", "hours": 2},
+        {"name": "ZEM", "hours": 2},
+        {"name": "BIO", "hours": 2},
+        {"name": "CHE", "hours": 2},
+        {"name": "FYZ", "hours": 2},
+        {"name": "TV", "hours": 2},
+        {"name": "INF", "hours": 1}
+      ]
+    }
+  ],
+  "rooms": [
+    {"name": "PC1", "type": "PC"},
+    {"name": "PC2", "type": "PC"},
+    {"name": "T1", "type": "kmenová"},
+    {"name": "T2", "type": "kmenová"},
+    {"name": "T3", "type": "kmenová"},
+    {"name": "T4", "type": "kmenová"},
+    {"name": "JAZ1", "type": "jazyková"},
+    {"name": "JAZ2", "type": "jazyková"},
+    {"name": "TV1", "type": "tělocvična"},
+    {"name": "TV2", "type": "tělocvična"}
+  ],
+  "teachers": [
+    {"name": "Novak", "subjects": ["MAT"]},
+    {"name": "Svobodova", "subjects": ["CZE"]},
+    {"name": "Vsetecka", "subjects": ["ANG"]},
+    {"name": "Vacek", "subjects": ["DEJ", "ZEM"]},
+    {"name": "Dvorak", "subjects": ["BIO", "CHE"]},
+    {"name": "Novakova", "subjects": ["FYZ"]},
+    {"name": "Horak", "subjects": ["TV"]},
+    {"name": "Waage", "subjects": ["INF"]}
+  ]
+}
